@@ -1,0 +1,7 @@
+2025-07-10 16:29:57,817 - INFO - Tabellen 'city' und 'weather' erfolgreich erstellt.
+2025-07-10 16:30:52,202 - INFO - Tabellen 'city' und 'weather' erfolgreich erstellt.
+2025-07-10 16:32:04,262 - INFO - Tabellen 'city' und 'weather' erfolgreich erstellt.
+2025-07-10 16:32:04,457 - INFO - Wetterdaten für Stuttgart gespeichert in data\stuttgart.csv
+2025-07-10 16:32:04,465 - INFO - Stadt 'Stuttgart' in Datenbank eingefügt.
+2025-07-10 16:32:04,465 - INFO - Wetterdaten für Stadt-ID 4 gespeichert.
+2025-07-10 16:32:13,418 - INFO - Tabellen 'city' und 'weather' erfolgreich erstellt.
