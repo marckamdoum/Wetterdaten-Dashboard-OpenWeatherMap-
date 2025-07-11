@@ -37,7 +37,7 @@ streamlit run app.py
 <img width="972" height="756" alt="image_weather" src="https://github.com/user-attachments/assets/372e0561-f913-4cb0-abab-e29d63748454" />
 <img width="1047" height="716" alt="image2_weather" src="https://github.com/user-attachments/assets/65eccf52-5f7b-4256-9505-2b267b7eb151" />
 <img width="482" height="361" alt="image3_weather" src="https://github.com/user-attachments/assets/3042a5a8-9ca7-4f93-9304-d3ab717b092c" />
-<img width="658" height="292" alt="image4_weather" src="https://github.com/user-attachments/assets/a3927bdc-049a-48d4-9523-32b01d406f18" />
+
 
 
 
